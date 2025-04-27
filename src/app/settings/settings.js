@@ -1,0 +1,1 @@
+export const background="rgb(13, 71, 161)"

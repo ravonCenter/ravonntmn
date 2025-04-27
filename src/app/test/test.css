@@ -1,0 +1,19 @@
+@keyframes timer{
+    0%{
+        width:0%;
+        background-color:white;
+    }
+    100%{
+        width:100%;
+        background-color:black ;
+    }
+}
+.timer{
+    animation-name: timer;
+    animation-duration: 600s;
+
+}
+.timeline{
+    box-shadow:  0px 5px 15px 3px orange;
+    z-index: 101;
+}

@@ -1,0 +1,14 @@
+/* Move these imports to the very top of your CSS file */
+/* Move these imports to the very top of your CSS file */
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+/* Your other CSS rules follow */
+.file\:mr-4::file-selector-button {
+  margin-right: 1rem;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
